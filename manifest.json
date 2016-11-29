@@ -1,16 +1,16 @@
 {
   "manifest_version": 2,
 
-  "name" :"TabsFolder",
-  "version" :"1.1.0",
-  "description" :"Group your tabs into groups.",
+  "name" :"Tabs Manager",
+  "version" :"1.0.0",
+  "description" :"A tab manager like the one in firefox",
   "icons": { "16":  "icon16.png",
 	     "48":  "icon48.png",
 	     "128": "icon128.png" },
 
   "author": {
-      "name": "Conchilicultor",
-      "email": "conchilicultor@gmail.com" },
+      "name": "Conchilicultor, and Bruno Robert",
+      "email": "conchilicultor@gmail.com, bruno.jeanluke@gmail.com" },
       
   "permissions": ["tabs", "storage"],
 
